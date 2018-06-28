@@ -18,3 +18,5 @@ You must have a rom of the US, NES Version of galaga and FCEUX emulator installe
   - Start a 1 player game,
   - When the ship spawns,load and run the LUA script. You want to be sure you do this after the ship spawns, and before the enemies start swinging in. I usually wait until "Stage 1" dissapears, The script could get stuck in a loop if you run the script too early.
  - Just let it do its thing. You can turn emulation speed up, it won't affect the affect learning, since the ai learns frame by frame.
+
+![Galagod](https://i.imgur.com/4xRa5SJ.gif)
